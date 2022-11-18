@@ -1,0 +1,5 @@
+@media (max-width: 575px) {
+    .top-content .carousel-item {
+        max-height: 400px;
+    }
+}
